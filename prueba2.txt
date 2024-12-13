@@ -1,1 +1,8 @@
-prueba2.txt
+
+
+ç
+
+
+
+modificacion para git diff/git diff --staged 
+
